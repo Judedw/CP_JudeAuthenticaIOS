@@ -1,0 +1,34 @@
+PODS:
+  - ACProgressHUD-Swift (1.3)
+  - Alamofire (4.7.2)
+  - AlamofireObjectMapper (5.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.3)
+  - Kingfisher (4.8.0)
+  - ObjectMapper (3.3.0)
+
+DEPENDENCIES:
+  - ACProgressHUD-Swift (~> 1.3)
+  - Alamofire (~> 4.7)
+  - AlamofireObjectMapper
+  - Kingfisher
+  - ObjectMapper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ACProgressHUD-Swift
+    - Alamofire
+    - AlamofireObjectMapper
+    - Kingfisher
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  ACProgressHUD-Swift: d973934a517312593015c78413f2de7bcc10c715
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireObjectMapper: 3395e698901d8b0e6f48b7d0c43bd47875325102
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+
+PODFILE CHECKSUM: 67fd970335df950df4521cd3a50fe790ee800052
+
+COCOAPODS: 1.5.3
